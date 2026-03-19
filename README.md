@@ -90,9 +90,6 @@ Chrome browser
 
 IDE (IntelliJ / Eclipse)
 
-2️⃣ Clone Repository
-git clone https://github.com/your-username/LinkedInAutomation.git
-
 3️⃣ Run Tests
 mvn test
 
@@ -106,7 +103,7 @@ Email	Password
 valid@email.com
 	rohit123
 invalid@email.com
-	rohin123
+	aditya123
 🧠 Framework Design Highlights
 
 Page Object Model → Better maintainability
@@ -139,7 +136,7 @@ Extent Reports integration
 
 👤 Author
 
-Rohit Kumar
-📧 Email: rohitsdr8299@gmail.com
+Aditya Raj
+📧 Email: adityasingh841238@gmail.com
 
-🔗 LinkedIn: (https://www.linkedin.com/in/rohit-kumar82/)
+🔗 LinkedIn: (https://www.linkedin.com/in/aditya-raj-4081782b9)
